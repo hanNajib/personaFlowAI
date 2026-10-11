@@ -1,0 +1,196 @@
+{
+  "catalog_name": "PersonaFlow AI Fictional Activity Catalog",
+  "catalog_version": "1.0",
+  "is_fictional_demo_data": true,
+  "currency": "IDR",
+  "budget_levels": {
+    "low": {
+      "min": 0,
+      "max": 50000
+    },
+    "medium": {
+      "min": 50001,
+      "max": 150000
+    },
+    "high": {
+      "min": 150001,
+      "max": 300000
+    }
+  },
+  "activities": [
+    {
+      "id": "ACT-001",
+      "name": "Creative Workshop",
+      "description": "Sesi praktik membuat karya sederhana dengan panduan langkah demi langkah.",
+      "interests": [
+        "art",
+        "craft",
+        "creativity",
+        "learning"
+      ],
+      "budget_level": "medium",
+      "estimated_cost_idr": {
+        "min": 75000,
+        "max": 125000
+      },
+      "duration_minutes": 120,
+      "moods": [
+        "social",
+        "creative",
+        "energetic"
+      ],
+      "setting": "indoor",
+      "group_type": "group",
+      "tags": [
+        "hands-on",
+        "beginner-friendly",
+        "creative"
+      ]
+    },
+    {
+      "id": "ACT-002",
+      "name": "Quiet Reading Session",
+      "description": "Waktu membaca mandiri dengan jeda refleksi singkat di tempat yang tenang.",
+      "interests": [
+        "reading",
+        "books",
+        "reflection",
+        "learning"
+      ],
+      "budget_level": "low",
+      "estimated_cost_idr": {
+        "min": 0,
+        "max": 30000
+      },
+      "duration_minutes": 60,
+      "moods": [
+        "quiet",
+        "relaxed",
+        "reflective"
+      ],
+      "setting": "indoor",
+      "group_type": "solo-or-small-group",
+      "tags": [
+        "low-pressure",
+        "calm",
+        "flexible"
+      ]
+    },
+    {
+      "id": "ACT-003",
+      "name": "Beginner Photography Walk",
+      "description": "Jalan santai untuk berlatih komposisi dan mengambil foto objek di sekitar.",
+      "interests": [
+        "photography",
+        "nature",
+        "exploration",
+        "art"
+      ],
+      "budget_level": "low",
+      "estimated_cost_idr": {
+        "min": 0,
+        "max": 40000
+      },
+      "duration_minutes": 90,
+      "moods": [
+        "exploratory",
+        "relaxed",
+        "curious"
+      ],
+      "setting": "outdoor",
+      "group_type": "solo-or-small-group",
+      "tags": [
+        "beginner-friendly",
+        "outdoor",
+        "creative"
+      ]
+    },
+    {
+      "id": "ACT-004",
+      "name": "Board Game Meetup",
+      "description": "Sesi bermain board game ringan yang mendorong interaksi dan kerja sama.",
+      "interests": [
+        "games",
+        "strategy",
+        "socializing",
+        "problem-solving"
+      ],
+      "budget_level": "low",
+      "estimated_cost_idr": {
+        "min": 20000,
+        "max": 50000
+      },
+      "duration_minutes": 90,
+      "moods": [
+        "social",
+        "playful",
+        "energetic"
+      ],
+      "setting": "indoor",
+      "group_type": "group",
+      "tags": [
+        "interactive",
+        "teamwork",
+        "fun"
+      ]
+    },
+    {
+      "id": "ACT-005",
+      "name": "Nature Sketching",
+      "description": "Menggambar objek alam sederhana sambil mengamati bentuk dan detail lingkungan.",
+      "interests": [
+        "art",
+        "drawing",
+        "nature",
+        "mindfulness"
+      ],
+      "budget_level": "low",
+      "estimated_cost_idr": {
+        "min": 10000,
+        "max": 45000
+      },
+      "duration_minutes": 75,
+      "moods": [
+        "quiet",
+        "relaxed",
+        "creative"
+      ],
+      "setting": "outdoor",
+      "group_type": "solo-or-small-group",
+      "tags": [
+        "calm",
+        "beginner-friendly",
+        "creative"
+      ]
+    },
+    {
+      "id": "ACT-006",
+      "name": "Mini Skill Lab",
+      "description": "Sesi singkat untuk mempelajari satu keterampilan praktis melalui latihan terarah.",
+      "interests": [
+        "learning",
+        "technology",
+        "personal-growth",
+        "problem-solving"
+      ],
+      "budget_level": "medium",
+      "estimated_cost_idr": {
+        "min": 60000,
+        "max": 140000
+      },
+      "duration_minutes": 120,
+      "moods": [
+        "curious",
+        "focused",
+        "motivated"
+      ],
+      "setting": "indoor",
+      "group_type": "solo-or-small-group",
+      "tags": [
+        "skill-building",
+        "structured",
+        "beginner-friendly"
+      ]
+    }
+  ]
+}
