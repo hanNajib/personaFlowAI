@@ -93,6 +93,10 @@ Beberapa skenario yang perlu diuji meliputi:
 
 PersonaFlow AI dibuat sebagai eksperimen dalam desain instruksi AI, pencocokan berbasis batasan, dan penyusunan rekomendasi yang transparan.
 
+## Dokumentasi
+
+- [Pengujian & Evaluasi](docs/testing.md)
+
 Proyek ini menunjukkan bagaimana AI dapat dirancang untuk tidak hanya memberikan jawaban, tetapi juga mempertimbangkan batasan, menjelaskan keputusan, dan mengakui ketika data yang tersedia belum cukup.
 
 ---
