@@ -46,7 +46,7 @@ PersonaFlow AI harus menjelaskan konflik tersebut dan tidak menyajikannya sebaga
 ```text
 personaFlowAI/
 ├── chatgpt/
-│   └── persona-flow-ai-plugin.zip
+│   └── plugin.zip
 ├── gemini/
 │   └── skill.md
 ├── persona_catalog.json
